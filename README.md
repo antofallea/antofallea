@@ -1,16 +1,31 @@
-## Hi there 👋
+Hi, I'm Antonio 👋
+💻 Software Developer | 🎓 Computer Science Student
 
-<!--
-**antofallea/antofallea** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm a developer passionate about software engineering, modern web development, and computer systems. 🚀
 
-Here are some ideas to get you started:
+I enjoy building projects that combine practical applications with a deeper understanding of how technology works. 🧠⚙️
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+I'm currently pursuing a degree in Computer Science 🎓 and continuously improving my skills through personal projects, experimentation, and hands-on development. 🔥
+
+🚀 What I'm working on
+🌐 Web development — Building modern, responsive, and interactive websites.
+💻 Software engineering — Developing applications and exploring different programming languages.
+🖥️ Computer systems — Learning about operating systems, computer architecture, and low-level programming.
+🤖 Artificial intelligence & automation — Exploring how intelligent systems can improve software and workflows.
+🧩 Problem solving — Working on algorithms, data structures, and challenging technical projects.
+
+📌 Featured Projects
+
+Here are some of the projects I've been working on:
+
+🐍 relational-identity-structure — A Python project focused on relational structures.
+⏳ ChronoWeave — A Python project exploring time-related concepts.
+🤖 ELO-Clan-War-Discord-BOT-System — A JavaScript-based Discord bot system.
+🧵 Concurrent-Simulation-of-a-Cafeteria-Service-System-Using-System-V-IPC — A C project focused on concurrent programming and System V IPC.
+🖥️ RISC-TO-Architecture-Processor — A Verilog project exploring processor architecture.
+
+🌐 Connect with me
+🌍 Portfolio: antoniofallea.pages.dev
+🐙 GitHub: @antofallea
+
+✨ Always learning, always building. 🚀
