@@ -34,7 +34,9 @@ Here are some of the projects I've been working on:
 🖥️ RISC-TO-Architecture-Processor — A Verilog project exploring processor architecture.
 
 🌐 Connect with me
-🌍 Portfolio: antoniofallea.pages.dev
+
+🌍 Portfolio: https://antoniofallea.pages.dev
+
 🐙 GitHub: @antofallea
 
 ✨ Always learning, always building. 🚀
