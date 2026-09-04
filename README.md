@@ -18,9 +18,9 @@ I'm currently pursuing a degree in Computer Science 🎓 and continuously improv
 
 Here are some of the projects I've been working on:
 
-🐍 relational-identity-structure — A Python project focused on relational structures.
-⏳ ChronoWeave — A Python project exploring time-related concepts.
-🤖 ELO-Clan-War-Discord-BOT-System — A JavaScript-based Discord bot system.
+🐍 relational-identity-structure — This repository implements a prototype for representing entity identity through relational signatures
+⏳ ChronoWeave — A pluggable vector index for AI retrieval where similarity is not enough.
+🤖 ELO-Clan-War-Discord-BOT-System — A Discord bot system.
 🧵 Concurrent-Simulation-of-a-Cafeteria-Service-System-Using-System-V-IPC — A C project focused on concurrent programming and System V IPC.
 🖥️ RISC-TO-Architecture-Processor — A Verilog project exploring processor architecture.
 
